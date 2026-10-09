@@ -1,1 +1,259 @@
-Ly8g5rex5Zyz5bm/55S15a6Y5pa555u05pKt5YWo5Luj55CG77ya6aKR6YGT5o6l5Y+j5Yy/5ZCN6Ym05p2DIC0+IOaNouebtOaSrSBLZXkgLT4g5q+P5p2hIEhMUyDot6/lvoTpgJDkuIDnrb7lkI3jgIIKLy8g5LiK5ri4IENETiDlr7nmuIXljZUv5YiG54mH6YCQ6Lev5b6E562+5ZCN77yM5pmu6YCa5pKt5pS+5Zmo5peg5rOV5aSN546w77yM5pWF5YWo6YOo57uP5pysIFdvcmtlciDkuK3ovaznrb7lkI3jgIIKY29uc3QgQ0FUQUxPR19VUkwgPSAnaHR0cHM6Ly9hcGl4LnNjbXMuc3p0di5jb20uY24vYXBpL2NvbS9jYXRhbG9nL2dldENhdGFsb2dMaXN0P2lzVHJlZT0wJnRlbmFudElkPXlzeiZ0eXBlcz0yJmFwcENvZGU9MjAnOwpjb25zdCBMSVZFX0tFWV9VUkwgPSAnaHR0cHM6Ly9obHMtYXBpLnN6dHYuY29tLmNuL2dldEN1dHZIbHNMaXZlS2V5JzsKY29uc3QgU1RSRUFNX0hPU1RTID0gWydzenR2LWxpdmUuc3p0di5jb20uY24nLCAnc3p0di1obHMuc3p0di5jb20uY24nXTsKY29uc3QgV0VCX0hNQUNfVVNFUiA9ICdvbmVzeic7CmNvbnN0IFdFQl9ITUFDX1NFQ1JFVCA9ICd4VUo3R2xzNDVTdDBDVG5hdG53WndzSDRVeVlqMHJwWCc7CmNvbnN0IExJVkVfVE9LRU5fU0FMVCA9ICdjdXR2TGl2ZVN0cmVhbXxEcmVhbTIwMTcnOwpjb25zdCBDRE5fU0lHTl9TRUNSRVQgPSAnZWpvdzZwNnA2aG1ybTlnOTZiZWgya25lY2RxNWt5dzlicDB6eHlnNyc7CmNvbnN0IFNUUkVBTV9UVExfU0VDT05EUyA9IDIgKiA2MCAqIDYwOwpjb25zdCBVQSA9ICdNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI0LjAuMC4wIFNhZmFyaS81MzcuMzYnOwpjb25zdCBOQU1FX09WRVJSSURFUyA9IHsKICAn5rex5Zyz5Y2r6KeGNEvotoXpq5jmuIUnOiAn5rex5Zyz5Y2r6KeGNEsnLAogICfmt7HlnLPljavop4YnOiAn5rex5Zyz5Y2r6KeGJywKICAn6YO95biC6aKR6YGTJzogJ+a3seWcs+mDveW4gicsCiAgJ+eUteinhuWJp+mikemBkyc6ICfmt7HlnLPnlLXop4bliacnLAogICflsJHlhL/popHpgZMnOiAn5rex5Zyz5bCR5YS/JywKICAn56e75Yqo55S16KeGJzogJ+a3seWcs+enu+WKqOeUteinhicsCiAgJ+WbvemZhemikemBkyc6ICfmt7HlnLPlm73pmYUnLAp9OwoKLy8gLS0tLSBNRDUgKHB1cmUgSlM7IFdvcmtlcnMgV2ViQ3J5cHRvIOS4jeaUr+aMgSBNRDUpIC0tLS0KZnVuY3Rpb24gbWQ1KGlucHV0KSB7CiAgY29uc3Qgc3RyID0gdW5lc2NhcGUoZW5jb2RlVVJJQ29tcG9uZW50KGlucHV0KSk7CiAgY29uc3QgUyA9IFsKICAgIDcsIDEyLCAxNywgMjIsIDcsIDEyLCAxNywgMjIsIDcsIDEyLCAxNywgMjIsIDcsIDEyLCAxNywgMjIsCiAgICA1LCA5LCAxNCwgMjAsIDUsIDksIDE0LCAyMCwgNSwgOSwgMTQsIDIwLCA1LCA5LCAxNCwgMjAsCiAgICA0LCAxMSwgMTYsIDIzLCA0LCAxMSwgMTYsIDIzLCA0LCAxMSwgMTYsIDIzLCA0LCAxMSwgMTYsIDIzLAogICAgNiwgMTAsIDE1LCAyMSwgNiwgMTAsIDE1LCAyMSwgNiwgMTAsIDE1LCAyMSwgNiwgMTAsIDE1LCAyMSwKICBdOwogIGNvbnN0IEsgPSBbXTsKICBmb3IgKGxldCBpID0gMDsgaSA8IDY0OyBpKyspIEtbaV0gPSBNYXRoLmZsb29yKE1hdGguYWJzKE1hdGguc2luKGkgKyAxKSkgKiA0Mjk0OTY3Mjk2KSA+Pj4gMDsKICBjb25zdCBieXRlcyA9IFtdOwogIGZvciAobGV0IGkgPSAwOyBpIDwgc3RyLmxlbmd0aDsgaSsrKSBieXRlcy5wdXNoKHN0ci5jaGFyQ29kZUF0KGkpICYgMHhmZik7CiAgY29uc3QgYml0TGVuID0gYnl0ZXMubGVuZ3RoICogODsKICBieXRlcy5wdXNoKDB4ODApOwogIHdoaWxlIChieXRlcy5sZW5ndGggJSA2NCAhPT0gNTYpIGJ5dGVzLnB1c2goMCk7CiAgLy8gNjQtYml0IGxpdHRsZS1lbmRpYW4gbGVuZ3RoIChoaWdoIHBhcnQgYXNzdW1lZCAwIGZvciBvdXIgc2hvcnQgaW5wdXRzKQogIGxldCBsb3cgPSBiaXRMZW4gPj4+IDAsIGhpZ2ggPSBNYXRoLmZsb29yKGJpdExlbiAvIDQyOTQ5NjcyOTYpID4+PiAwOwogIGZvciAobGV0IGkgPSAwOyBpIDwgNDsgaSsrKSB7IGJ5dGVzLnB1c2gobG93ICYgMHhmZik7IGxvdyA+Pj49IDg7IH0KICBmb3IgKGxldCBpID0gMDsgaSA8IDQ7IGkrKykgeyBieXRlcy5wdXNoKGhpZ2ggJiAweGZmKTsgaGlnaCA+Pj49IDg7IH0KICBsZXQgYTAgPSAweDY3NDUyMzAxLCBiMCA9IDB4ZWZjZGFiODksIGMwID0gMHg5OGJhZGNmZSwgZDAgPSAweDEwMzI1NDc2OwogIGNvbnN0IEYgPSAoeCwgeSwgeikgPT4gKHggJiB5KSB8ICh+eCAmIHopOwogIGNvbnN0IEcgPSAoeCwgeSwgeikgPT4gKHggJiB6KSB8ICh5ICYgfnopOwogIGNvbnN0IEggPSAoeCwgeSwgeikgPT4geCBeIHkgXiB6OwogIGNvbnN0IEkgPSAoeCwgeSwgeikgPT4geSBeICh4IHwgfnopOwogIGNvbnN0IHJvdGwgPSAoeCwgbikgPT4gKCh4IDw8IG4pIHwgKHggPj4+ICgzMiAtIG4pKSkgPj4+IDA7CiAgZm9yIChsZXQgb2ZmID0gMDsgb2ZmIDwgYnl0ZXMubGVuZ3RoOyBvZmYgKz0gNjQpIHsKICAgIGNvbnN0IE0gPSBbXTsKICAgIGZvciAobGV0IGogPSAwOyBqIDwgMTY7IGorKykgewogICAgICBNW2pdID0gKGJ5dGVzW29mZiArIGogKiA0XSB8IChieXRlc1tvZmYgKyBqICogNCArIDFdIDw8IDgpIHwgKGJ5dGVzW29mZiArIGogKiA0ICsgMl0gPDwgMTYpIHwgKGJ5dGVzW29mZiArIGogKiA0ICsgM10gPDwgMjQpKSA+Pj4gMDsKICAgIH0KICAgIGxldCBBID0gYTAsIEIgPSBiMCwgQyA9IGMwLCBEID0gZDA7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IDY0OyBpKyspIHsKICAgICAgbGV0IGYsIGc7CiAgICAgIGlmIChpIDwgMTYpIHsgZiA9IEYoQiwgQywgRCk7IGcgPSBpOyB9CiAgICAgIGVsc2UgaWYgKGkgPCAzMikgeyBmID0gRyhCLCBDLCBEKTsgZyA9ICg1ICogaSArIDEpICUgMTY7IH0KICAgICAgZWxzZSBpZiAoaSA8IDQ4KSB7IGYgPSBIKEIsIEMsIEQpOyBnID0gKDMgKiBpICsgNSkgJSAxNjsgfQogICAgICBlbHNlIHsgZiA9IEkoQiwgQywgRCk7IGcgPSAoNyAqIGkpICUgMTY7IH0KICAgICAgY29uc3QgdG1wID0gRDsKICAgICAgRCA9IEM7CiAgICAgIEMgPSBCOwogICAgICBCID0gKEIgKyByb3RsKChBICsgZiArIEtbaV0gKyBNW2ddKSA+Pj4gMCwgU1tpXSkpID4+PiAwOwogICAgICBBID0gdG1wOwogICAgfQogICAgYTAgPSAoYTAgKyBBKSA+Pj4gMDsgYjAgPSAoYjAgKyBCKSA+Pj4gMDsgYzAgPSAoYzAgKyBDKSA+Pj4gMDsgZDAgPSAoZDAgKyBEKSA+Pj4gMDsKICB9CiAgY29uc3Qgd29yZEhleCA9IChuKSA9PiB7CiAgICBsZXQgcyA9ICcnOwogICAgZm9yIChsZXQgaSA9IDA7IGkgPCA0OyBpKyspIHMgKz0gKChuID4+PiAoaSAqIDgpKSAmIDB4ZmYpLnRvU3RyaW5nKDE2KS5wYWRTdGFydCgyLCAnMCcpOwogICAgcmV0dXJuIHM7CiAgfTsKICByZXR1cm4gd29yZEhleChhMCkgKyB3b3JkSGV4KGIwKSArIHdvcmRIZXgoYzApICsgd29yZEhleChkMCk7Cn0KCi8vIC0tLS0g5LiK5ri45o6l5Y+jIC0tLS0KZnVuY3Rpb24gdXBzdHJlYW1IZWFkZXJzKGxpdmVJZCkgewogIHJldHVybiB7CiAgICBPcmlnaW46ICdodHRwczovL3d3dy5zenR2LmNvbS5jbicsCiAgICBSZWZlcmVyOiBsaXZlSWQKICAgICAgPyBgaHR0cHM6Ly93d3cuc3p0di5jb20uY24vcGluZGFvL2luZGV4Lmh0bWw/bGl2ZUlkPSR7ZW5jb2RlVVJJQ29tcG9uZW50KGxpdmVJZCl9YAogICAgICA6ICdodHRwczovL3d3dy5zenR2LmNvbS5jbi9waW5kYW8vJywKICAgICdVc2VyLUFnZW50JzogVUEsCiAgfTsKfQoKYXN5bmMgZnVuY3Rpb24gaG1hY1NoYTUxMkJhc2U2NChzZWNyZXQsIHRleHQpIHsKICBjb25zdCBrZXkgPSBhd2FpdCBjcnlwdG8uc3VidGxlLmltcG9ydEtleSgncmF3JywgbmV3IFRleHRFbmNvZGVyKCkuZW5jb2RlKHNlY3JldCksIHsgbmFtZTogJ0hNQUMnLCBoYXNoOiAnU0hBLTUxMicgfSwgZmFsc2UsIFsnc2lnbiddKTsKICBjb25zdCBzaWcgPSBhd2FpdCBjcnlwdG8uc3VidGxlLnNpZ24oJ0hNQUMnLCBrZXksIG5ldyBUZXh0RW5jb2RlcigpLmVuY29kZSh0ZXh0KSk7CiAgbGV0IGJpbiA9ICcnOwogIGZvciAoY29uc3QgYiBvZiBuZXcgVWludDhBcnJheShzaWcpKSBiaW4gKz0gU3RyaW5nLmZyb21DaGFyQ29kZShiKTsKICByZXR1cm4gYnRvYShiaW4pOwp9CgpsZXQgY2F0YWxvZ0NhY2hlID0gbnVsbDsgLy8geyByb3dzLCBleHBpcmVzQXQgfQphc3luYyBmdW5jdGlvbiBmZXRjaENoYW5uZWxMaXN0KCkgewogIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgaWYgKGNhdGFsb2dDYWNoZSAmJiBjYXRhbG9nQ2FjaGUuZXhwaXJlc0F0ID4gbm93KSByZXR1cm4gY2F0YWxvZ0NhY2hlLnJvd3M7CiAgY29uc3QgdXJsID0gbmV3IFVSTChDQVRBTE9HX1VSTCk7CiAgY29uc3QgZGF0ZSA9IG5ldyBEYXRlKG5vdykudG9VVENTdHJpbmcoKTsKICBjb25zdCBub25jZSA9IGNyeXB0by5yYW5kb21VVUlEKCk7CiAgY29uc3QgY2Fub25pY2FsID0gYHgtZGF0ZTogJHtkYXRlfVxuQHJlcXVlc3QtdGFyZ2V0OiBnZXQgJHt1cmwucGF0aG5hbWV9XG5ob3N0OiAke3VybC5ob3N0fVxubm9uY2U6ICR7bm9uY2V9YDsKICBjb25zdCBzaWduYXR1cmUgPSBhd2FpdCBobWFjU2hhNTEyQmFzZTY0KFdFQl9ITUFDX1NFQ1JFVCwgY2Fub25pY2FsKTsKICBjb25zdCByZXNwID0gYXdhaXQgZmV0Y2goQ0FUQUxPR19VUkwsIHsKICAgIGhlYWRlcnM6IHsKICAgICAgLi4udXBzdHJlYW1IZWFkZXJzKCksCiAgICAgICdYLURhdGUnOiBkYXRlLAogICAgICBOb25jZTogbm9uY2UsCiAgICAgIEF1dGhvcml6YXRpb246IGBobWFjIHVzZXJuYW1lPSIke1dFQl9ITUFDX1VTRVJ9IiwgYWxnb3JpdGhtPSJobWFjLXNoYTUxMiIsIGhlYWRlcnM9IngtZGF0ZSBAcmVxdWVzdC10YXJnZXQgaG9zdCBub25jZSIsIHNpZ25hdHVyZT0iJHtzaWduYXR1cmV9ImAsCiAgICAgIEFjY2VwdDogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgfSwKICB9KTsKICBpZiAoIXJlc3Aub2spIHRocm93IG5ldyBFcnJvcihg6aKR6YGT5o6l5Y+jIEhUVFAgJHtyZXNwLnN0YXR1c31gKTsKICBjb25zdCBwYXlsb2FkID0gYXdhaXQgcmVzcC5qc29uKCk7CiAgY29uc3Qgcm93cyA9IFtdOwogIGNvbnN0IHNlZW4gPSBuZXcgU2V0KCk7CiAgZm9yIChjb25zdCBpdGVtIG9mIEFycmF5LmlzQXJyYXkocGF5bG9hZD8ucmV0dXJuRGF0YSkgPyBwYXlsb2FkLnJldHVybkRhdGEgOiBbXSkgewogICAgY29uc3Qgc291cmNlTmFtZSA9IFN0cmluZyhpdGVtPy5leHRlbmQ/LnJlZmVybmFtZSB8fCBpdGVtPy5uYW1lIHx8ICcnKS50cmltKCk7CiAgICBjb25zdCBuYW1lID0gTkFNRV9PVkVSUklERVNbc291cmNlTmFtZV07CiAgICBjb25zdCBsaXZlSWQgPSBTdHJpbmcoaXRlbT8uZXh0ZW5kPy5saXZlSWQgfHwgJycpLnRyaW0oKTsKICAgIGNvbnN0IHJhdGUgPSBOdW1iZXIoaXRlbT8uZXh0ZW5kPy5saXZlUmF0ZT8uWzBdIHx8IDUwMCk7CiAgICBjb25zdCBpZCA9IFN0cmluZyhpdGVtPy5pZCB8fCAnJyk7CiAgICBpZiAoIW5hbWUgfHwgIS9eW0EtWmEtejAtOV17MywzMn0kLy50ZXN0KGxpdmVJZCkgfHwgIS9eXGR7MSwxMH0kLy50ZXN0KGlkKSB8fCBzZWVuLmhhcyhpZCkpIGNvbnRpbnVlOwogICAgc2Vlbi5hZGQoaWQpOwogICAgcm93cy5wdXNoKHsgaWQsIG5hbWUsIGxpdmVJZCwgcmF0ZSB9KTsKICB9CiAgaWYgKHBheWxvYWQ/LnJldHVybkNvZGUgIT09ICcwMDAwJyB8fCAhcm93cy5sZW5ndGgpIHRocm93IG5ldyBFcnJvcign6aKR6YGT5o6l5Y+j6L+U5Zue5byC5bi4Jyk7CiAgY2F0YWxvZ0NhY2hlID0geyByb3dzLCBleHBpcmVzQXQ6IG5vdyArIDQgKiA2MCAqIDYwICogMTAwMCB9OwogIHJldHVybiByb3dzOwp9Cgpjb25zdCBsaXZlS2V5Q2FjaGUgPSBuZXcgTWFwKCk7IC8vIGxpdmVJZCAtPiB7IHZhbHVlLCBleHBpcmVzQXQgfQpmdW5jdGlvbiBkZWNvZGVMaXZlS2V5KHJhdykgewogIGxldCB2YWx1ZSA9IFN0cmluZyhyYXcgPz8gJycpLnRyaW0oKTsKICBpZiAodmFsdWUuc3RhcnRzV2l0aCgnIicpKSB7IHRyeSB7IHZhbHVlID0gSlNPTi5wYXJzZSh2YWx1ZSk7IH0gY2F0Y2ggeyAvKiBmYWxsdGhyb3VnaCAqLyB9IH0KICBpZiAoIXZhbHVlIHx8IHZhbHVlID09PSAnMCcpIHRocm93IG5ldyBFcnJvcign55u05pKtIEtleSDmjqXlj6Pmi5Lnu53or7fmsYInKTsKICBjb25zdCBzcGxpdCA9IHZhbHVlLmxlbmd0aCAtIE1hdGguZmxvb3IodmFsdWUubGVuZ3RoIC8gMik7CiAgY29uc3Qgcm90YXRlZCA9IHZhbHVlLnNsaWNlKHNwbGl0KSArIHZhbHVlLnNsaWNlKDAsIHNwbGl0KTsKICBjb25zdCBkZWNvZGVkID0gYXRvYihbLi4ucm90YXRlZF0ucmV2ZXJzZSgpLmpvaW4oJycpKTsKICBpZiAoIS9eW0EtWmEtejAtOV17MywzMn0kLy50ZXN0KGRlY29kZWQpKSB0aHJvdyBuZXcgRXJyb3IoJ+ebtOaSrSBLZXkg6L+U5Zue5qC85byP5byC5bi4Jyk7CiAgcmV0dXJuIGRlY29kZWQ7Cn0KYXN5bmMgZnVuY3Rpb24gZmV0Y2hMaXZlS2V5KHJvdykgewogIGNvbnN0IGNhY2hlZCA9IGxpdmVLZXlDYWNoZS5nZXQocm93LmxpdmVJZCk7CiAgaWYgKGNhY2hlZCAmJiBjYWNoZWQuZXhwaXJlc0F0ID4gRGF0ZS5ub3coKSkgcmV0dXJuIGNhY2hlZC52YWx1ZTsKICBjb25zdCBzZWNvbmRzID0gTWF0aC5mbG9vcihEYXRlLm5vdygpIC8gMTAwMCk7CiAgY29uc3QgdXJsID0gbmV3IFVSTChMSVZFX0tFWV9VUkwpOwogIHVybC5zZWFyY2hQYXJhbXMuc2V0KCd0JywgU3RyaW5nKHNlY29uZHMpKTsKICB1cmwuc2VhcmNoUGFyYW1zLnNldCgnaWQnLCByb3cubGl2ZUlkKTsKICB1cmwuc2VhcmNoUGFyYW1zLnNldCgndG9rZW4nLCBtZDUoYCR7c2Vjb25kc30ke3Jvdy5saXZlSWR9JHtMSVZFX1RPS0VOX1NBTFR9YCkpOwogIHVybC5zZWFyY2hQYXJhbXMuc2V0KCdhdCcsICcxJyk7CiAgY29uc3QgcmVzcCA9IGF3YWl0IGZldGNoKHVybC5ocmVmLCB7IGhlYWRlcnM6IHVwc3RyZWFtSGVhZGVycyhyb3cubGl2ZUlkKSB9KTsKICBpZiAoIXJlc3Aub2spIHRocm93IG5ldyBFcnJvcihg55u05pKtIEtleSDmjqXlj6MgSFRUUCAke3Jlc3Auc3RhdHVzfWApOwogIGNvbnN0IHZhbHVlID0gZGVjb2RlTGl2ZUtleShhd2FpdCByZXNwLnRleHQoKSk7CiAgbGl2ZUtleUNhY2hlLnNldChyb3cubGl2ZUlkLCB7IHZhbHVlLCBleHBpcmVzQXQ6IERhdGUubm93KCkgKyAzMCAqIDYwICogMTAwMCB9KTsKICByZXR1cm4gdmFsdWU7Cn0KCmZ1bmN0aW9uIHNpZ25TdHJlYW1VcmwocmF3VXJsLCBub3dNcykgewogIGNvbnN0IHVybCA9IG5ldyBVUkwocmF3VXJsKTsKICBjb25zdCBleHBpcmVzID0gKE1hdGguZmxvb3IoKG5vd01zID8/IERhdGUubm93KCkpIC8gMTAwMCkgKyBTVFJFQU1fVFRMX1NFQ09ORFMpLnRvU3RyaW5nKDE2KTsKICB1cmwuc2VhcmNoUGFyYW1zLnNldCgnc2lnbicsIG1kNShgJHtDRE5fU0lHTl9TRUNSRVR9JHt1cmwucGF0aG5hbWV9JHtleHBpcmVzfWApKTsKICB1cmwuc2VhcmNoUGFyYW1zLnNldCgndCcsIGV4cGlyZXMpOwogIHJldHVybiB1cmwuaHJlZjsKfQoKLy8gLS0tLSBITFMg5Lit6L2sIC0tLS0KZnVuY3Rpb24gcmV3cml0ZVBsYXlsaXN0KHRleHQsIGJhc2VVcmwsIG9yaWdpbikgewogIGNvbnN0IG91dCA9IFtdOwogIGZvciAoY29uc3QgbGluZSBvZiB0ZXh0LnNwbGl0KC9ccj9cbi8pKSB7CiAgICBpZiAobGluZS5zdGFydHNXaXRoKCcjJykpIHsKICAgICAgb3V0LnB1c2gobGluZS5yZXBsYWNlKC9VUkk9IihbXiJdKykiL2csIChtLCB1cmkpID0+IHsKICAgICAgICBjb25zdCBhYnMgPSBuZXcgVVJMKHVyaSwgYmFzZVVybCkuaHJlZjsKICAgICAgICByZXR1cm4gYFVSST0iJHtvcmlnaW59L3A/dT0ke2VuY29kZVVSSUNvbXBvbmVudChhYnMpfSJgOwogICAgICB9KSk7CiAgICB9IGVsc2UgaWYgKGxpbmUudHJpbSgpKSB7CiAgICAgIGNvbnN0IGFicyA9IG5ldyBVUkwobGluZS50cmltKCksIGJhc2VVcmwpLmhyZWY7CiAgICAgIG91dC5wdXNoKGAke29yaWdpbn0vcD91PSR7ZW5jb2RlVVJJQ29tcG9uZW50KGFicyl9YCk7CiAgICB9IGVsc2UgewogICAgICBvdXQucHVzaChsaW5lKTsKICAgIH0KICB9CiAgcmV0dXJuIG91dC5qb2luKCdcbicpOwp9Cgphc3luYyBmdW5jdGlvbiBmZXRjaFBsYXlsaXN0QW5kUmV3cml0ZSh1cHN0cmVhbVVybCwgb3JpZ2luLCBsaXZlSWQpIHsKICBjb25zdCBzaWduZWQgPSBzaWduU3RyZWFtVXJsKHVwc3RyZWFtVXJsKTsKICBjb25zdCByZXNwID0gYXdhaXQgZmV0Y2goc2lnbmVkLCB7IGhlYWRlcnM6IHVwc3RyZWFtSGVhZGVycyhsaXZlSWQpIH0pOwogIGNvbnN0IHRleHQgPSBhd2FpdCByZXNwLnRleHQoKTsKICBpZiAoIXJlc3Aub2spIHJldHVybiBuZXcgUmVzcG9uc2UodGV4dCwgeyBzdGF0dXM6IHJlc3Auc3RhdHVzLCBoZWFkZXJzOiB7ICdjb250ZW50LXR5cGUnOiByZXNwLmhlYWRlcnMuZ2V0KCdjb250ZW50LXR5cGUnKSB8fCAndGV4dC9wbGFpbicgfSB9KTsKICByZXR1cm4gbmV3IFJlc3BvbnNlKHJld3JpdGVQbGF5bGlzdCh0ZXh0LCBzaWduZWQsIG9yaWdpbiksIHsKICAgIGhlYWRlcnM6IHsgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybCcsICdjYWNoZS1jb250cm9sJzogJ25vLXN0b3JlJyB9LAogIH0pOwp9CgpleHBvcnQgZGVmYXVsdCB7CiAgYXN5bmMgZmV0Y2gocmVxdWVzdCkgewogICAgY29uc3QgdXJsID0gbmV3IFVSTChyZXF1ZXN0LnVybCk7CiAgICBjb25zdCBvcmlnaW4gPSB1cmwub3JpZ2luOwogICAgdHJ5IHsKICAgICAgaWYgKHVybC5wYXRobmFtZSA9PT0gJy8nIHx8IHVybC5wYXRobmFtZSA9PT0gJy9zenR2Lm0zdScpIHsKICAgICAgICBjb25zdCByb3dzID0gYXdhaXQgZmV0Y2hDaGFubmVsTGlzdCgpOwogICAgICAgIGNvbnN0IGxpbmVzID0gWycjRVhUTTNVJ107CiAgICAgICAgZm9yIChjb25zdCByIG9mIHJvd3MpIHsKICAgICAgICAgIGxpbmVzLnB1c2goYCNFWFRJTkY6LTEsJHtyLm5hbWV9YCk7CiAgICAgICAgICBsaW5lcy5wdXNoKGAke29yaWdpbn0vY2gvJHtyLmlkfS5tM3U4YCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UobGluZXMuam9pbignXG4nKSArICdcbicsIHsgaGVhZGVyczogeyAnY29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL3gtbXBlZ3VybDsgY2hhcnNldD11dGYtOCcgfSB9KTsKICAgICAgfQogICAgICBjb25zdCBjaE1hdGNoID0gdXJsLnBhdGhuYW1lLm1hdGNoKC9eXC9jaFwvKFxkezEsMTB9KVwubTN1OCQvKTsKICAgICAgaWYgKGNoTWF0Y2gpIHsKICAgICAgICBjb25zdCByb3dzID0gYXdhaXQgZmV0Y2hDaGFubmVsTGlzdCgpOwogICAgICAgIGNvbnN0IHJvdyA9IHJvd3MuZmluZCgocikgPT4gci5pZCA9PT0gY2hNYXRjaFsxXSk7CiAgICAgICAgaWYgKCFyb3cpIHJldHVybiBuZXcgUmVzcG9uc2UoJ2NoYW5uZWwgbm90IGZvdW5kJywgeyBzdGF0dXM6IDQwNCB9KTsKICAgICAgICBjb25zdCBrZXkgPSBhd2FpdCBmZXRjaExpdmVLZXkocm93KTsKICAgICAgICBjb25zdCB1bnNpZ25lZCA9IGBodHRwczovLyR7U1RSRUFNX0hPU1RTWzBdfS8ke3Jvdy5saXZlSWR9LyR7cm93LnJhdGV9LyR7a2V5fS5tM3U4YDsKICAgICAgICByZXR1cm4gZmV0Y2hQbGF5bGlzdEFuZFJld3JpdGUodW5zaWduZWQsIG9yaWdpbiwgcm93LmxpdmVJZCk7CiAgICAgIH0KICAgICAgaWYgKHVybC5wYXRobmFtZSA9PT0gJy9wJykgewogICAgICAgIGNvbnN0IHRhcmdldCA9IHVybC5zZWFyY2hQYXJhbXMuZ2V0KCd1Jyk7CiAgICAgICAgaWYgKCF0YXJnZXQpIHJldHVybiBuZXcgUmVzcG9uc2UoJ21pc3NpbmcgdScsIHsgc3RhdHVzOiA0MDAgfSk7CiAgICAgICAgY29uc3QgdSA9IG5ldyBVUkwodGFyZ2V0KTsKICAgICAgICBpZiAodS5wcm90b2NvbCAhPT0gJ2h0dHBzOicgfHwgIVNUUkVBTV9IT1NUUy5pbmNsdWRlcyh1Lmhvc3RuYW1lKSkgcmV0dXJuIG5ldyBSZXNwb25zZSgnYmFkIHVwc3RyZWFtJywgeyBzdGF0dXM6IDQwMCB9KTsKICAgICAgICB1LnNlYXJjaFBhcmFtcy5kZWxldGUoJ3NpZ24nKTsKICAgICAgICB1LnNlYXJjaFBhcmFtcy5kZWxldGUoJ3QnKTsKICAgICAgICBjb25zdCBzaWduZWQgPSBzaWduU3RyZWFtVXJsKHUuaHJlZik7CiAgICAgICAgY29uc3QgcmVzcCA9IGF3YWl0IGZldGNoKHNpZ25lZCwgeyBoZWFkZXJzOiB1cHN0cmVhbUhlYWRlcnMoKSB9KTsKICAgICAgICBjb25zdCB0eXBlID0gcmVzcC5oZWFkZXJzLmdldCgnY29udGVudC10eXBlJykgfHwgJyc7CiAgICAgICAgaWYgKHUucGF0aG5hbWUuZW5kc1dpdGgoJy5tM3U4JykgfHwgdHlwZS5pbmNsdWRlcygnbXBlZ3VybCcpKSB7CiAgICAgICAgICBjb25zdCB0ZXh0ID0gYXdhaXQgcmVzcC50ZXh0KCk7CiAgICAgICAgICBpZiAoIXJlc3Aub2spIHJldHVybiBuZXcgUmVzcG9uc2UodGV4dCwgeyBzdGF0dXM6IHJlc3Auc3RhdHVzLCBoZWFkZXJzOiB7ICdjb250ZW50LXR5cGUnOiB0eXBlIHx8ICd0ZXh0L3BsYWluJyB9IH0pOwogICAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZShyZXdyaXRlUGxheWxpc3QodGV4dCwgc2lnbmVkLCBvcmlnaW4pLCB7CiAgICAgICAgICAgIGhlYWRlcnM6IHsgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybCcsICdjYWNoZS1jb250cm9sJzogJ25vLXN0b3JlJyB9LAogICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UocmVzcC5ib2R5LCB7CiAgICAgICAgICBzdGF0dXM6IHJlc3Auc3RhdHVzLAogICAgICAgICAgaGVhZGVyczogeyAnY29udGVudC10eXBlJzogdHlwZSB8fCAnYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtJywgJ2NhY2hlLWNvbnRyb2wnOiAnbm8tc3RvcmUnIH0sCiAgICAgICAgfSk7CiAgICAgIH0KICAgICAgaWYgKHVybC5wYXRobmFtZSA9PT0gJy9kZWJ1ZycpIHsKICAgICAgICBjb25zdCByb3dzID0gYXdhaXQgZmV0Y2hDaGFubmVsTGlzdCgpOwogICAgICAgIGNvbnN0IGZpcnN0ID0gcm93c1swXTsKICAgICAgICBsZXQga2V5T2sgPSBmYWxzZSwgcGxheWxpc3RTdGF0dXMgPSAwOwogICAgICAgIHRyeSB7CiAgICAgICAgICBjb25zdCBrZXkgPSBhd2FpdCBmZXRjaExpdmVLZXkoZmlyc3QpOwogICAgICAgICAga2V5T2sgPSAvXltBLVphLXowLTldezMsMzJ9JC8udGVzdChrZXkpOwogICAgICAgICAgY29uc3Qgc2lnbmVkID0gc2lnblN0cmVhbVVybChgaHR0cHM6Ly8ke1NUUkVBTV9IT1NUU1swXX0vJHtmaXJzdC5saXZlSWR9LyR7Zmlyc3QucmF0ZX0vJHtrZXl9Lm0zdThgKTsKICAgICAgICAgIGNvbnN0IHIgPSBhd2FpdCBmZXRjaChzaWduZWQsIHsgaGVhZGVyczogdXBzdHJlYW1IZWFkZXJzKGZpcnN0LmxpdmVJZCkgfSk7CiAgICAgICAgICBwbGF5bGlzdFN0YXR1cyA9IHIuc3RhdHVzOwogICAgICAgIH0gY2F0Y2ggeyAvKiByZXBvcnRlZCBiZWxvdyAqLyB9CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmpzb24oeyBjaGFubmVsczogcm93cy5tYXAoKHIpID0+ICh7IGlkOiByLmlkLCBuYW1lOiByLm5hbWUgfSkpLCBrZXlPaywgcGxheWxpc3RTdGF0dXMgfSk7CiAgICAgIH0KICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZSgnbm90IGZvdW5kJywgeyBzdGF0dXM6IDQwNCB9KTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHJldHVybiBuZXcgUmVzcG9uc2UoYGVycm9yOiAke2Vycm9yPy5tZXNzYWdlIHx8IFN0cmluZyhlcnJvcil9YCwgeyBzdGF0dXM6IDUwMiB9KTsKICAgIH0KICB9LAp9Owo=
+// 深圳广电官方直播全代理：频道接口匿名鉴权 -> 换直播 Key -> 每条 HLS 路径逐一签名。
+// 上游 CDN 对清单/分片逐路径签名，普通播放器无法复现，故全部经本 Worker 中转签名。
+const CATALOG_URL = 'https://apix.scms.sztv.com.cn/api/com/catalog/getCatalogList?isTree=0&tenantId=ysz&types=2&appCode=20';
+const LIVE_KEY_URL = 'https://hls-api.sztv.com.cn/getCutvHlsLiveKey';
+const STREAM_HOSTS = ['sztv-live.sztv.com.cn', 'sztv-hls.sztv.com.cn'];
+const WEB_HMAC_USER = 'onesz';
+const WEB_HMAC_SECRET = 'xUJ7Gls45St0CTnatnwZwsH4UyYj0rpX';
+const LIVE_TOKEN_SALT = 'cutvLiveStream|Dream2017';
+const CDN_SIGN_SECRET = 'ejow6p6p6hmrm9g96beh2knecdq5kyw9bp0zxyg7';
+const STREAM_TTL_SECONDS = 2 * 60 * 60;
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+const NAME_OVERRIDES = {
+  '深圳卫视4K超高清': '深圳卫视4K',
+  '深圳卫视': '深圳卫视',
+  '都市频道': '深圳都市',
+  '电视剧频道': '深圳电视剧',
+  '少儿频道': '深圳少儿',
+  '移动电视': '深圳移动电视',
+  '国际频道': '深圳国际',
+};
+
+// ---- MD5 (pure JS; Workers WebCrypto 不支持 MD5) ----
+function md5(input) {
+  const str = unescape(encodeURIComponent(input));
+  const S = [
+    7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22,
+    5, 9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20,
+    4, 11, 16, 23, 4, 11, 16, 23, 4, 11, 16, 23, 4, 11, 16, 23,
+    6, 10, 15, 21, 6, 10, 15, 21, 6, 10, 15, 21, 6, 10, 15, 21,
+  ];
+  const K = [];
+  for (let i = 0; i < 64; i++) K[i] = Math.floor(Math.abs(Math.sin(i + 1)) * 4294967296) >>> 0;
+  const bytes = [];
+  for (let i = 0; i < str.length; i++) bytes.push(str.charCodeAt(i) & 0xff);
+  const bitLen = bytes.length * 8;
+  bytes.push(0x80);
+  while (bytes.length % 64 !== 56) bytes.push(0);
+  // 64-bit little-endian length (high part assumed 0 for our short inputs)
+  let low = bitLen >>> 0, high = Math.floor(bitLen / 4294967296) >>> 0;
+  for (let i = 0; i < 4; i++) { bytes.push(low & 0xff); low >>>= 8; }
+  for (let i = 0; i < 4; i++) { bytes.push(high & 0xff); high >>>= 8; }
+  let a0 = 0x67452301, b0 = 0xefcdab89, c0 = 0x98badcfe, d0 = 0x10325476;
+  const F = (x, y, z) => (x & y) | (~x & z);
+  const G = (x, y, z) => (x & z) | (y & ~z);
+  const H = (x, y, z) => x ^ y ^ z;
+  const I = (x, y, z) => y ^ (x | ~z);
+  const rotl = (x, n) => ((x << n) | (x >>> (32 - n))) >>> 0;
+  for (let off = 0; off < bytes.length; off += 64) {
+    const M = [];
+    for (let j = 0; j < 16; j++) {
+      M[j] = (bytes[off + j * 4] | (bytes[off + j * 4 + 1] << 8) | (bytes[off + j * 4 + 2] << 16) | (bytes[off + j * 4 + 3] << 24)) >>> 0;
+    }
+    let A = a0, B = b0, C = c0, D = d0;
+    for (let i = 0; i < 64; i++) {
+      let f, g;
+      if (i < 16) { f = F(B, C, D); g = i; }
+      else if (i < 32) { f = G(B, C, D); g = (5 * i + 1) % 16; }
+      else if (i < 48) { f = H(B, C, D); g = (3 * i + 5) % 16; }
+      else { f = I(B, C, D); g = (7 * i) % 16; }
+      const tmp = D;
+      D = C;
+      C = B;
+      B = (B + rotl((A + f + K[i] + M[g]) >>> 0, S[i])) >>> 0;
+      A = tmp;
+    }
+    a0 = (a0 + A) >>> 0; b0 = (b0 + B) >>> 0; c0 = (c0 + C) >>> 0; d0 = (d0 + D) >>> 0;
+  }
+  const wordHex = (n) => {
+    let s = '';
+    for (let i = 0; i < 4; i++) s += ((n >>> (i * 8)) & 0xff).toString(16).padStart(2, '0');
+    return s;
+  };
+  return wordHex(a0) + wordHex(b0) + wordHex(c0) + wordHex(d0);
+}
+
+// ---- 上游接口 ----
+function upstreamHeaders(liveId) {
+  return {
+    Origin: 'https://www.sztv.com.cn',
+    Referer: liveId
+      ? `https://www.sztv.com.cn/pindao/index.html?liveId=${encodeURIComponent(liveId)}`
+      : 'https://www.sztv.com.cn/pindao/',
+    'User-Agent': UA,
+  };
+}
+
+async function hmacSha512Base64(secret, text) {
+  const key = await crypto.subtle.importKey('raw', new TextEncoder().encode(secret), { name: 'HMAC', hash: 'SHA-512' }, false, ['sign']);
+  const sig = await crypto.subtle.sign('HMAC', key, new TextEncoder().encode(text));
+  let bin = '';
+  for (const b of new Uint8Array(sig)) bin += String.fromCharCode(b);
+  return btoa(bin);
+}
+
+let catalogCache = null; // { rows, expiresAt }
+async function fetchChannelList() {
+  const now = Date.now();
+  if (catalogCache && catalogCache.expiresAt > now) return catalogCache.rows;
+  const url = new URL(CATALOG_URL);
+  const date = new Date(now).toUTCString();
+  const nonce = crypto.randomUUID();
+  const canonical = `x-date: ${date}\n@request-target: get ${url.pathname}\nhost: ${url.host}\nnonce: ${nonce}`;
+  const signature = await hmacSha512Base64(WEB_HMAC_SECRET, canonical);
+  const resp = await fetch(CATALOG_URL, {
+    headers: {
+      ...upstreamHeaders(),
+      'X-Date': date,
+      Nonce: nonce,
+      Authorization: `hmac username="${WEB_HMAC_USER}", algorithm="hmac-sha512", headers="x-date @request-target host nonce", signature="${signature}"`,
+      Accept: 'application/json',
+    },
+  });
+  if (!resp.ok) throw new Error(`频道接口 HTTP ${resp.status}`);
+  const payload = await resp.json();
+  const rows = [];
+  const seen = new Set();
+  for (const item of Array.isArray(payload?.returnData) ? payload.returnData : []) {
+    const sourceName = String(item?.extend?.refername || item?.name || '').trim();
+    const name = NAME_OVERRIDES[sourceName];
+    const liveId = String(item?.extend?.liveId || '').trim();
+    const rate = Number(item?.extend?.liveRate?.[0] || 500);
+    const id = String(item?.id || '');
+    if (!name || !/^[A-Za-z0-9]{3,32}$/.test(liveId) || !/^\d{1,10}$/.test(id) || seen.has(id)) continue;
+    seen.add(id);
+    rows.push({ id, name, liveId, rate });
+  }
+  if (payload?.returnCode !== '0000' || !rows.length) throw new Error('频道接口返回异常');
+  catalogCache = { rows, expiresAt: now + 4 * 60 * 60 * 1000 };
+  return rows;
+}
+
+const liveKeyCache = new Map(); // liveId -> { value, expiresAt }
+function decodeLiveKey(raw) {
+  let value = String(raw ?? '').trim();
+  if (value.startsWith('"')) { try { value = JSON.parse(value); } catch { /* fallthrough */ } }
+  if (!value || value === '0') throw new Error('直播 Key 接口拒绝请求');
+  const split = value.length - Math.floor(value.length / 2);
+  const rotated = value.slice(split) + value.slice(0, split);
+  const decoded = atob([...rotated].reverse().join(''));
+  if (!/^[A-Za-z0-9]{3,32}$/.test(decoded)) throw new Error('直播 Key 返回格式异常');
+  return decoded;
+}
+async function fetchLiveKey(row) {
+  const cached = liveKeyCache.get(row.liveId);
+  if (cached && cached.expiresAt > Date.now()) return cached.value;
+  const seconds = Math.floor(Date.now() / 1000);
+  const url = new URL(LIVE_KEY_URL);
+  url.searchParams.set('t', String(seconds));
+  url.searchParams.set('id', row.liveId);
+  url.searchParams.set('token', md5(`${seconds}${row.liveId}${LIVE_TOKEN_SALT}`));
+  url.searchParams.set('at', '1');
+  const resp = await fetch(url.href, { headers: upstreamHeaders(row.liveId) });
+  if (!resp.ok) throw new Error(`直播 Key 接口 HTTP ${resp.status}`);
+  const value = decodeLiveKey(await resp.text());
+  liveKeyCache.set(row.liveId, { value, expiresAt: Date.now() + 30 * 60 * 1000 });
+  return value;
+}
+
+function signStreamUrl(rawUrl, nowMs) {
+  const url = new URL(rawUrl);
+  const expires = (Math.floor((nowMs ?? Date.now()) / 1000) + STREAM_TTL_SECONDS).toString(16);
+  url.searchParams.set('sign', md5(`${CDN_SIGN_SECRET}${url.pathname}${expires}`));
+  url.searchParams.set('t', expires);
+  return url.href;
+}
+
+// ---- HLS 中转 ----
+function rewritePlaylist(text, baseUrl, origin) {
+  const out = [];
+  for (const line of text.split(/\r?\n/)) {
+    if (line.startsWith('#')) {
+      out.push(line.replace(/URI="([^"]+)"/g, (m, uri) => {
+        const abs = new URL(uri, baseUrl).href;
+        return `URI="${origin}/p?u=${encodeURIComponent(abs)}"`;
+      }));
+    } else if (line.trim()) {
+      const abs = new URL(line.trim(), baseUrl).href;
+      out.push(`${origin}/p?u=${encodeURIComponent(abs)}`);
+    } else {
+      out.push(line);
+    }
+  }
+  return out.join('\n');
+}
+
+async function fetchPlaylistAndRewrite(upstreamUrl, origin, liveId) {
+  const signed = signStreamUrl(upstreamUrl);
+  const resp = await fetch(signed, { headers: upstreamHeaders(liveId) });
+  const text = await resp.text();
+  if (!resp.ok) return new Response(text, { status: resp.status, headers: { 'content-type': resp.headers.get('content-type') || 'text/plain' } });
+  return new Response(rewritePlaylist(text, signed, origin), {
+    headers: { 'content-type': 'application/vnd.apple.mpegurl', 'cache-control': 'no-store' },
+  });
+}
+
+export default {
+  async fetch(request) {
+    const url = new URL(request.url);
+    const origin = url.origin;
+    try {
+      if (url.pathname === '/' || url.pathname === '/sztv.m3u') {
+        const rows = await fetchChannelList();
+        const lines = ['#EXTM3U'];
+        for (const r of rows) {
+          lines.push(`#EXTINF:-1,${r.name}`);
+          lines.push(`${origin}/ch/${r.id}.m3u8`);
+        }
+        return new Response(lines.join('\n') + '\n', { headers: { 'content-type': 'application/x-mpegurl; charset=utf-8' } });
+      }
+      const chMatch = url.pathname.match(/^\/ch\/(\d{1,10})\.m3u8$/);
+      if (chMatch) {
+        const rows = await fetchChannelList();
+        const row = rows.find((r) => r.id === chMatch[1]);
+        if (!row) return new Response('channel not found', { status: 404 });
+        const key = await fetchLiveKey(row);
+        const unsigned = `https://${STREAM_HOSTS[0]}/${row.liveId}/${row.rate}/${key}.m3u8`;
+        return fetchPlaylistAndRewrite(unsigned, origin, row.liveId);
+      }
+      if (url.pathname === '/p') {
+        const target = url.searchParams.get('u');
+        if (!target) return new Response('missing u', { status: 400 });
+        const u = new URL(target);
+        if (u.protocol !== 'https:' || !STREAM_HOSTS.includes(u.hostname)) return new Response('bad upstream', { status: 400 });
+        u.searchParams.delete('sign');
+        u.searchParams.delete('t');
+        const signed = signStreamUrl(u.href);
+        const resp = await fetch(signed, { headers: upstreamHeaders() });
+        const type = resp.headers.get('content-type') || '';
+        if (u.pathname.endsWith('.m3u8') || type.includes('mpegurl')) {
+          const text = await resp.text();
+          if (!resp.ok) return new Response(text, { status: resp.status, headers: { 'content-type': type || 'text/plain' } });
+          return new Response(rewritePlaylist(text, signed, origin), {
+            headers: { 'content-type': 'application/vnd.apple.mpegurl', 'cache-control': 'no-store' },
+          });
+        }
+        return new Response(resp.body, {
+          status: resp.status,
+          headers: { 'content-type': type || 'application/octet-stream', 'cache-control': 'no-store' },
+        });
+      }
+      if (url.pathname === '/debug') {
+        const rows = await fetchChannelList();
+        const first = rows[0];
+        let keyOk = false, playlistStatus = 0;
+        try {
+          const key = await fetchLiveKey(first);
+          keyOk = /^[A-Za-z0-9]{3,32}$/.test(key);
+          const signed = signStreamUrl(`https://${STREAM_HOSTS[0]}/${first.liveId}/${first.rate}/${key}.m3u8`);
+          const r = await fetch(signed, { headers: upstreamHeaders(first.liveId) });
+          playlistStatus = r.status;
+        } catch { /* reported below */ }
+        return Response.json({ channels: rows.map((r) => ({ id: r.id, name: r.name })), keyOk, playlistStatus });
+      }
+      return new Response('not found', { status: 404 });
+    } catch (error) {
+      return new Response(`error: ${error?.message || String(error)}`, { status: 502 });
+    }
+  },
+};
