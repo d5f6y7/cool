@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:,1. 花都新闻 2026年10月9日
+https://s3.jinrihuadu.com/ronghehao/convert/c34bc5c7-b955-4ac4-bb63-710a9d30eb7a.mp4
+
+#EXTINF:,2. 花都新闻 2026年10月8日
+https://s3.jinrihuadu.com/ronghehao/convert/d6b59d60-9eda-4cc9-ba4a-fbc5b66c2322.mp4
+
+#EXTINF:,3. 花都新闻 2026年10月1日
+https://s3.jinrihuadu.com/ronghehao/convert/bfcccd61-8875-4266-aadf-e94b6da3d3a8.mp4
+
+#EXTINF:,4. 花都新闻 2026年9月30日
+https://s3.jinrihuadu.com/ronghehao/convert/b060c506-388d-43a6-8e7a-b3f38d99795a.mp4
+
+#EXTINF:,5. 花都新闻 2026年9月29日
+https://s3.jinrihuadu.com/ronghehao/convert/b88377aa-9ab4-4a6a-8422-732b1aa6ef8b.mp4
+
+#EXTINF:,6. 花都新闻 2026年9月28日
+https://s3.jinrihuadu.com/ronghehao/convert/1405ee77-4c40-4acf-a628-22e20950121c.mp4
+
+#EXTINF:,7. 花都新闻 2026年9月26日
+https://s3.jinrihuadu.com/ronghehao/convert/18432188-b7d0-4fde-8abc-f7297d86d9e0.mp4
+
+#EXTINF:,8. 花都新闻 2026年9月25日
+https://s3.jinrihuadu.com/ronghehao/convert/939e708f-53d1-4d93-b787-78166a4478b0.mp4
+
+#EXTINF:,9. 花都新闻 2026年9月24日
+https://s3.jinrihuadu.com/ronghehao/convert/90690a4f-17c0-46db-99c5-0e9feced3a9c.mp4
+
+#EXTINF:,10. 花都新闻 2026年9月23日
+https://s3.jinrihuadu.com/ronghehao/convert/bb7a4010-3831-4acb-9458-23fe3141c514.mp4
+
+#EXTINF:,11. 花都新闻 2026年9月22日
+https://s3.jinrihuadu.com/ronghehao/convert/26448d47-bf9e-4d20-ab67-619661caeaf7.mp4
